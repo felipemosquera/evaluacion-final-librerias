@@ -1,0 +1,52 @@
+body{
+    background-image: url("./img/fondo.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.botones{
+  background-color: #2979ff;
+  border-radius: 4px;
+  color: white!important;
+  width: 100%!important;
+}
+.logo{
+  margin-top: 1.5rem;
+}
+.social{
+  height: 4rem;
+  width: 100%;
+}
+.foto{
+  height: 15rem;
+  border: 1px solid black;
+  width: 100%;
+}
+.foto1{
+  height: 35rem;
+  width: 90%;
+  border: 1px solid black;
+}
+.letra{
+    font-family: Jua;
+    font-size: 16px;
+}
+.circle1{
+  border-radius: 30px;
+  width: 50%;
+}
+.logo1{
+  height: 10rem;
+}
+.blanco{
+  background-color: white;
+  margin: 1rem;
+}
+.letra1{
+  font-family: Jua;
+  font-size: 24px;
+}
+.foto2{
+  height: 15rem;
+  width: 100%;
+}
